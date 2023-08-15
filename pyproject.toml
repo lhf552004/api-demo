@@ -18,6 +18,7 @@ fastapi-cloudauth = "^0.4.3"
 python-dotenv = "^1.0.0"
 httpx = "^0.24.1"
 uuid = "^1.30"
+debugpy = "1.6.7.post1"
 
 
 [tool.poetry.group.dev.dependencies]
